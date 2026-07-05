@@ -4,8 +4,7 @@ public class ConversionAssignment {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the name: ");
-        String name = sc.next();
-
+        
         System.out.println("Enter Maths marks: ");
         int Maths = sc.nextInt();
 

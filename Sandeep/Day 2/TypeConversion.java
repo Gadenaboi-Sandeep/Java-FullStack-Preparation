@@ -22,7 +22,7 @@ public class TypeConversion {
         System.out.println("Science: ");
         int science = sc.nextInt();
 
-        int total=telugu+hindi+maths+science;
+        int total=telugu+hindi+english+maths+science;
         double totald=total;
         double avg=total/5;
         int rounded=(int) Math.round(avg);
@@ -32,7 +32,7 @@ public class TypeConversion {
         System.out.println("Total(double): "+totald);
         System.out.println("Average: "+avg);
         System.out.println("Rounded Average: "+rounded);
-        
+
         sc.close();
     }
 }
