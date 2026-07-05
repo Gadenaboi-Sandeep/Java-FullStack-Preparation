@@ -28,5 +28,6 @@ public class ConversionAssignment {
         System.out.println("Average marks is: "+result/5);
         int roundedavg = total;
         System.out.println("Rounded average is: "+roundedavg);
+        sc.close();
     }
 }

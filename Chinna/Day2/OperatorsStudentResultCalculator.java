@@ -1,6 +1,6 @@
 package Chinna.Day2;
 import java.util.*;
-public class StudentResultCalculator {
+public class OperatorsStudentResultCalculator {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the name: ");
@@ -30,6 +30,7 @@ public class StudentResultCalculator {
        }else{
         System.out.println(name+" is failed");
        }
-        
+
+        sc.close();
     }
 }

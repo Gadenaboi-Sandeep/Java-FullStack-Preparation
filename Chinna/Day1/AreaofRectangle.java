@@ -7,5 +7,6 @@ public class AreaofRectangle {
         int b = sc.nextInt();
         int area = l*b;
         System.out.println("Area of Rectangle: "+area);
+        sc.close();
     }
 }
