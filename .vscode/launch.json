@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StudentResultCalculator",
+            "request": "launch",
+            "mainClass": "Chinna.Day2.StudentResultCalculator",
+            "projectName": "Java-FullStack-Preparation_c06f13ef"
+        },
+        {
+            "type": "java",
+            "name": "LargestTwoNums",
+            "request": "launch",
+            "mainClass": "Chinna.Day2.LargestTwoNums",
+            "projectName": "Java-FullStack-Preparation_c06f13ef"
+        },
+        {
+            "type": "java",
+            "name": "EvenorOdd",
+            "request": "launch",
+            "mainClass": "EvenorOdd",
+            "projectName": "Java-FullStack-Preparation_c06f13ef"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoNum",
+            "request": "launch",
+            "mainClass": "AddTwoNum",
+            "projectName": "Java-FullStack-Preparation_c06f13ef"
+        },
+        {
+            "type": "java",
+            "name": "AreaofRectangle",
+            "request": "launch",
+            "mainClass": "AreaofRectangle",
+            "projectName": "Java-FullStack-Preparation_c06f13ef"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
