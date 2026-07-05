@@ -9,5 +9,6 @@ public class EvenorOdd {
         else{
             System.out.println(n+" is odd number");
         }
+        sc.close();
     }
 }
