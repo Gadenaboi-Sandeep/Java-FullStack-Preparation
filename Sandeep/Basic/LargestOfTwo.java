@@ -1,4 +1,4 @@
-package Sandeep.Basic1;
+package Sandeep.Basic;
 
 public class LargestOfTwo {
     public static void main(String[] args) {

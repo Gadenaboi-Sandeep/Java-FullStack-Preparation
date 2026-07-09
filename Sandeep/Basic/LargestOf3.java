@@ -1,4 +1,4 @@
-package Sandeep.Basic1;
+package Sandeep.Basic;
 import java.util.Scanner;
 
 public class LargestOf3 {
