@@ -1,4 +1,4 @@
-package Chinna.Day2;
+package Chinna.Conversion;
 
 public class LargestTwoNums {
     public static void main(String args[]){

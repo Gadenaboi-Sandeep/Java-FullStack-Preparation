@@ -1,4 +1,4 @@
-package Chinna.Day2;
+package Chinna.Conversion;
 import java.util.*;
 public class OperatorsStudentResultCalculator {
     public static void main(String args[]){

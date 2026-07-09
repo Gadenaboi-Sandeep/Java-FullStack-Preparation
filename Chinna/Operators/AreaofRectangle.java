@@ -1,3 +1,4 @@
+package Chinna.Operators;
 import java.util.*;
 
 public class AreaofRectangle {
