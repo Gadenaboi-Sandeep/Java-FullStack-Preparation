@@ -1,3 +1,5 @@
+package Sandeep.Basic;
+
 import java.util.*;
 
 public class EvenOdd {
