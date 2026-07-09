@@ -1,3 +1,4 @@
+package Sandeep.Basic1;
 import java.util.Scanner;
 
 public class ElectricityBill {
