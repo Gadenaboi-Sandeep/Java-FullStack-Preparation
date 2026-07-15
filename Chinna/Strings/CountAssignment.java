@@ -36,5 +36,6 @@ public class CountAssignment {
         System.out.println("Digits: " + digits);
         System.out.println("Spaces: " + spaces);
         System.out.println("Special Characters: " + specialChar);
+        System.out.println(name.length());
     }
 }
