@@ -1,4 +1,4 @@
-package Chinna.Day4;
+package Chinna.Array;
 
 public class EvenOddArray {
     public static void main(String[] args) {

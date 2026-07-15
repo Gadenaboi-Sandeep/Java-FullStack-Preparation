@@ -1,4 +1,4 @@
-package Chinna.Day4;
+package Chinna.Array;
 import java.util.Arrays;
 
 public class ArrayReverse {
