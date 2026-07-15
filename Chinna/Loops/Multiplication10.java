@@ -1,4 +1,4 @@
-package Chinna.Day3;
+package Chinna.Loops;
 
 public class Multiplication10 {
     public static void main(String args[]){

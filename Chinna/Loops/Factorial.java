@@ -1,4 +1,4 @@
-package Chinna.Day3;
+package Chinna.Loops;
 import java.util.*;
 
 public class Factorial {
