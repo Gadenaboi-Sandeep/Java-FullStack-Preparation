@@ -1,5 +1,5 @@
 package Chinna.OOPS.Polymorphism;
 
-public class Demo {
+public class Main {
     
 }
