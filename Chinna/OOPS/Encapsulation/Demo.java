@@ -1,5 +1,5 @@
 package Chinna.OOPS.Encapsulation;
 
-public class Main {
+public class Demo {
     
 }
