@@ -1,4 +1,3 @@
-package Sandeep.String;
 
 public class VowelCount {
     
@@ -11,7 +10,7 @@ public class VowelCount {
             if(s=='a'||s=='e'||s=='i'||s=='o'||s=='u'||
                 s=='A'||s=='E'||s=='I'||s=='O'||s=='U'){
                     count++;
-                }
+            }
         }
 
         return count;

@@ -1,4 +1,3 @@
-package Sandeep.String;
 
 public class CaseConvert {
     public static void main(String[] args) {

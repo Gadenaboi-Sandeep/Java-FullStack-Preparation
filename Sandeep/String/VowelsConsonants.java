@@ -1,4 +1,3 @@
-package Sandeep.String;
 
 public class VowelsConsonants {
 
