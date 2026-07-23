@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculatorOverloading",
+            "request": "launch",
+            "mainClass": "Chinna.OOPS.Polymorphism.CalculatorOverloading",
+            "projectName": "Java-FullStack-Preparation_c06f13ef"
+        },
+        {
+            "type": "java",
             "name": "AnimalSound",
             "request": "launch",
             "mainClass": "Chinna.OOPS.Polymorphism.AnimalSound",
