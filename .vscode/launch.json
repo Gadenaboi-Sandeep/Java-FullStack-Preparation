@@ -6,20 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Append",
-            "request": "launch",
-            "mainClass": "Append",
-            "projectName": "Java-FullStack-Preparation_c7b46a3d"
-        },
-        {
-            "type": "java",
-            "name": "CharFrequency",
-            "request": "launch",
-            "mainClass": "CharFrequency",
-            "projectName": "Java-FullStack-Preparation_c7b46a3d"
-        },
-        {
-            "type": "java",
             "name": "CountWords",
             "request": "launch",
             "mainClass": "CountWords",
