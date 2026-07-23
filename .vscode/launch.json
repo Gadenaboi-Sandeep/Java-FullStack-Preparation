@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnimalSound",
+            "request": "launch",
+            "mainClass": "Chinna.OOPS.Polymorphism.AnimalSound",
+            "projectName": "Java-FullStack-Preparation_c06f13ef"
+        },
+        {
+            "type": "java",
+            "name": "LargestNum",
+            "request": "launch",
+            "mainClass": "Chinna.Operators.LargestNum",
+            "projectName": "Java-FullStack-Preparation_c06f13ef"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Chinna.OOPS.ConstructorThisKeyword.Student",
+            "projectName": "Java-FullStack-Preparation_c06f13ef"
+        },
+        {
+            "type": "java",
             "name": "CountWords",
             "request": "launch",
             "mainClass": "CountWords",
