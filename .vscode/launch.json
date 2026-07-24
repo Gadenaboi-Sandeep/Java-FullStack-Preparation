@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "staticKeyword",
+            "request": "launch",
+            "mainClass": "staticKeyword",
+            "projectName": "Java-FullStack-Preparation_c7b46a3d"
+        },
+        {
+            "type": "java",
+            "name": "BasicCon",
+            "request": "launch",
+            "mainClass": "Sandeep.Constructor.BasicCon",
+            "projectName": "Java-FullStack-Preparation_c7b46a3d"
+        },
+        {
+            "type": "java",
+            "name": "SwapNumbers",
+            "request": "launch",
+            "mainClass": "Sandeep.NarehIT.SwapNumbers",
+            "projectName": "Java-FullStack-Preparation_c7b46a3d"
+        },
+        {
+            "type": "java",
             "name": "CountWords",
             "request": "launch",
             "mainClass": "CountWords",
