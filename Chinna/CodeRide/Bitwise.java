@@ -1,5 +1,5 @@
 package Chinna.CodeRide;
 
-public class AirthematicOp {
+public class Bitwise {
     
 }
