@@ -1,5 +1,5 @@
 package Chinna.CodeRide;
 
-public class LogicalOp {
+public class AirthematicOp {
     
 }
