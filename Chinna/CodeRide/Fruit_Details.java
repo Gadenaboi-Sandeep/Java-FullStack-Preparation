@@ -2,7 +2,7 @@ package Chinna.CodeRide;
 
 import java.util.*;
 
-public class Main {
+public class Fruit_Details {
     Scanner sc = new Scanner(System.in);
     public void name(){
             System.out.println("Fruit Details:");
@@ -26,7 +26,7 @@ public class Main {
         }
             
     public static void main(String[] args) {
-        Main m = new Main();
+        Fruit_Details m = new Fruit_Details();
         m.name();
         m.color();
         m.price();
