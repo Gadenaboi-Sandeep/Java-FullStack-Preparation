@@ -11,5 +11,6 @@ public class Temperature {
         }else{
             System.out.println("Normal");
         }
+        sc.close();
     }
 }
