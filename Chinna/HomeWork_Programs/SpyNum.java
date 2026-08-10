@@ -8,7 +8,7 @@ public class SpyNum {
 		
 		while(num>0) {
 			int rem = num % 10;
-			sum = sum +rem;
+			sum = sum + rem;
 			prod = prod * rem;
 			num = num/10;
 		}
