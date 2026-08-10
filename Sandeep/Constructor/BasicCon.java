@@ -9,7 +9,6 @@ public class BasicCon {
         this.age=21;
     }
 
-
     public static void main(String[] args) {
         BasicCon obj=new BasicCon();
         System.out.println(obj.age);
