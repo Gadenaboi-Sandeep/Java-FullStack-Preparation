@@ -6,7 +6,7 @@ public class BasicCon {
 
     public BasicCon(){
         this.name="Sandeep";
-        this.age=22;
+        this.age=21;
     }
 
 
