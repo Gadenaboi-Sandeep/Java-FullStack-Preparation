@@ -43,7 +43,6 @@ public class Bank_Management_System {
 		System.out.println("Account Balance: "+balance);
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Bank_Management_System b = new Bank_Management_System(40,"Chinna", 100000.12);
 		b.checkBalance();
 		b.deposit();

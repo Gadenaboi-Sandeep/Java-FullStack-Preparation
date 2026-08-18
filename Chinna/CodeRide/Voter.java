@@ -11,5 +11,6 @@ public class Voter {
         if(Age >= 18){
             System.out.println("Eligible");
         }
+        sc.close();
     }
 }
