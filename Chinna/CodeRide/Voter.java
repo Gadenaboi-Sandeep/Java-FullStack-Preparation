@@ -6,8 +6,6 @@ public class Voter {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int Age = sc.nextInt();
-        boolean citizentoUppercase = sc.nextBoolean();
-
         if(Age >= 18){
             System.out.println("Eligible");
         }
